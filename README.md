@@ -162,21 +162,15 @@ If you'd like to contribute to `alarm-page-deployment-aws`, here are some guidel
 
 ---
 
-
-
 ## Authors and Acknowledgment
 
 `alarm-page-deployment-aws` was created by **[Satyanarayana Reddy](https://github.com/satyanarayanareddy25)**.
 
-
-
 ---
-
-
 
 ## Contact
 
-If you have any questions or comments about `terraform_linux`, please contact **[Satyanarayana Reddy](annapureddysatya00789@gmail.com)**.
+If you have any questions or comments about `alarm-page-deployment-aws`, please contact **[Satyanarayana Reddy](annapureddysatya00789@gmail.com)**.
 
 ---
 
